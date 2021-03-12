@@ -1,6 +1,6 @@
 name: time
 description: A DateTime extension to easily manipulate DateTime.now()
-version: 0.0.1
+version: 1.0.0
 author: Maximilian Auer
 
 environment:
